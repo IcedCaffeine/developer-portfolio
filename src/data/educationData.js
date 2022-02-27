@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
+        institution: 'Ecole Secondaire Evangeline',
         course: 'Higher Secondary Education',
-        startYear: '2007',
+        startYear: '2010',
         endYear: '2015'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Vanier College',
+        course: 'DEC in Health Sciences',
+        startYear: '2018',
+        endYear: '2020'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'Concordia University',
+        course: 'Bachelor of Engineering',
+        startYear: '2020',
+        endYear: '2024'
     },
 ]
